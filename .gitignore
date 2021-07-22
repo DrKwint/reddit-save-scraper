@@ -1,0 +1,5 @@
+env
+saved
+*.tar
+praw.ini
+saved_items*.json
